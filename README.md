@@ -1,12 +1,9 @@
-# Make3D_UnderWaterMaps
+How to make UnderWaterMaps using OpenDroneMap
 
 It uses the open source software from OpenDroneMap
-https://github.com/OpenDroneMap/OpenDroneMap
+- https://github.com/OpenDroneMap/OpenDroneMap
 
-Use "Vagrant" to use a virtualmachine to compute the 3Dmap
-https://github.com/OpenDroneMap/odm_vagrant
-
-(developing more here)
+### Instructions
 
 Make an account on amazon if you dont have ubuntu, or of you dont have enough cpu power for the calculations
 - http://aws.amazon.com/
