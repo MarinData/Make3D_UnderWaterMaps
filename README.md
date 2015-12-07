@@ -41,6 +41,12 @@ Then run OpenDroneMap on your dataset.
 
 When the 3d maps are created. Drag them over to your desktop using FilZila. 
 
+### Watch 3D map
+Download:
+- meshlab: - http://meshlab.sourceforge.net/
+
+Open "filname".obj with MeshLab
+
 ### Warning
 Warning. Remember to terminate the AWS ec2 instance as it cost money. 
 When you terminate the server. All the data will be lost. 
